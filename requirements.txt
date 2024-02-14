@@ -1,0 +1,7 @@
+google-generativeai
+ipykernel
+IPython
+jupyter
+python-dotenv
+Pillow
+
